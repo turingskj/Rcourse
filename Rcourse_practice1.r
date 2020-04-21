@@ -4,7 +4,7 @@ table(lets)
 table(droplevels(lets))
 
 
-temp1<-as.data.frame(table(lets1))
+temp1<-as.data.frame(table(lets))
 
 print("This is testing RStudio with Github...")
 
